@@ -158,6 +158,9 @@ body {
       }
 }
 @media (max-width:800px) {
+    .slide {
+        height: auto;
+    }
     .imgT {
         display: block;
         float: center;
@@ -168,9 +171,9 @@ body {
         margin-right: auto; 
 
     }
-    #thing {
+    /* #thing {
         margin-top: 150vh;
-    }
+    } */
     #vidId {
         display: none;
     }
